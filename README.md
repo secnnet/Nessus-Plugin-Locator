@@ -29,10 +29,6 @@ Example:
 - Ensure that you have the necessary permissions to execute the script. You can use the command `chmod +x nessus-plugin-locator.sh` to make the script executable if needed.
 - The script performs a search on the entire filesystem to find the Nessus plugins directory. This might take some time depending on the size of your filesystem.
 
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
 ## License
 
 This script is licensed under the [MIT License](LICENSE).
